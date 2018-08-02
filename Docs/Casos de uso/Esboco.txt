@@ -1,0 +1,31 @@
+- cliente
+- anunciante
+- corretor
+- administrador do sistema
+
+
+----------------------------------
+- Cliente:
+* Procurar Casa
+* Solicitar atendimento
+* Agendar horario
+* Dar propostas
+
+-Anunciante:
+*Colocar casa a venda
+*Consultar historico de visitas ao seu imóvel
+*Ver propostas
+*Retirar Anuncio
+*Solicitar atendimento
+
+-Corretor:
+*Consultar pedidos de atendimento
+*Agendar horario
+*Ver propostas
+*Contatar (Anunciante / Cliente)
+*Dar propostas
+
+-Admnistrador do sistema:
+*Retirar imóveis 
+*Alterar dados 
+*Suporte
