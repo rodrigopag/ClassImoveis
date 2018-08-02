@@ -13,7 +13,7 @@
 
 -Anunciante:
 *Colocar casa a venda
-*Consultar historico de visitas ao seu im�vel
+*Consultar historico de visitas ao seu imóvel
 *Ver propostas
 *Retirar Anuncio
 *Solicitar atendimento
@@ -26,10 +26,10 @@
 *Dar propostas
 
 -Admnistrador do sistema:
-*Retirar im�veis 
+*Retirar imóveis 
 *Alterar dados 
 *Suporte
 
 
 teste acento:
-��ഴa
+Òóà´´a
